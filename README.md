@@ -24,4 +24,4 @@ Our CSV file has alot of features needs to be processed, then doing a features s
 * sellers
 * product_information
 * ProductGrade
-The test set contains all the above variables except for average_review_rating, which is to be predicted.
+The test set contains all the above variables except for average_review_rating, which is to be predicted.</br>
