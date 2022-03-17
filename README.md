@@ -13,7 +13,7 @@ Our CSV file has alot of features needs to be processed, then doing a features s
  . Polynomial SVM with Kernal<br />
  
 <h2 align = "left">Data Variables</h2>
-* uniq_id</br>
+=> uniq_id</br>
 * product_name</br>
 * manufacturer</br>
 * price</br>
@@ -23,5 +23,4 @@ Our CSV file has alot of features needs to be processed, then doing a features s
 * amazon_category_and_sub_category</br>
 * sellers</br>
 * product_information</br>
-* ProductGrade</br>
-The test set contains all the above variables except for average_review_rating, which is to be predicted.</br>
+The test set contains all the above variables except for ProductGrade, which is to be predicted.</br>
