@@ -13,7 +13,7 @@ Our CSV file has alot of features needs to be processed, then doing a features s
  . Polynomial SVM with Kernal<br />
  
 <h2 align = "left">Data Variables</h2>
-=> uniq_id</br>
+* uniq_id</br>
 * product_name</br>
 * manufacturer</br>
 * price</br>
