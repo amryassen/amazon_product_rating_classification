@@ -13,15 +13,15 @@ Our CSV file has alot of features needs to be processed, then doing a features s
  . Polynomial SVM with Kernal<br />
  
 <h2 align = "left">Data Variables</h2>
-* uniq_id
-* product_name
-* manufacturer
-* price
-* number_available_in_stock
-* number_of_reviews
-* number_of_answered_questions
-* amazon_category_and_sub_category
-* sellers
-* product_information
-* ProductGrade
+* uniq_id</br>
+* product_name</br>
+* manufacturer</br>
+* price</br>
+* number_available_in_stock</br>
+* number_of_reviews</br>
+* number_of_answered_questions</br>
+* amazon_category_and_sub_category</br>
+* sellers</br>
+* product_information</br>
+* ProductGrade</br>
 The test set contains all the above variables except for average_review_rating, which is to be predicted.</br>
